@@ -1,0 +1,33 @@
+#pyramid {
+	height: 800px;
+	width: 800px;
+}
+
+p.planText {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+h {
+  font-family: Impact, Charcoal, sans-serif	
+}
+
+#copper {
+	width: 300px;
+	height: 300px;
+	padding: 15px;
+	box-shadow: 10px 10px 5px grey;
+}
+
+#silver {
+	width: 500px;
+	height: 500px;
+	padding: 15px;
+	box-shadow: 10px 10px 5px grey;
+}
+
+#gold {
+	width: 700px;
+	height: 700px;
+	padding: 15px;
+	box-shadow: 10px 10px 5px grey;
+}
